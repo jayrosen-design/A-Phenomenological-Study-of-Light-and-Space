@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/922570323.svg)](https://doi.org/10.5281/zenodo.14742431)
+
 # A Phenomenological Study of Light & Space  
 **Presented at the University of Florida Scholar Research Symposium, 2013**  
 [View Full Poster](https://github.com/jayrosen-design/A-Phenomenological-Study-of-Light-and-Space/blob/main/light%20and%20space%20poster%2072.jpg)
